@@ -4,7 +4,21 @@
   <url>
     <loc>http://blog.aidd.top/posts/66a907b1.html</loc>
     
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.aidd.top/posts/52649bb.html</loc>
+    
+    <lastmod>2020-11-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.aidd.top/posts/66a907b1.html</loc>
+    
+    <lastmod>2020-11-03</lastmod>
     
   </url>
   
@@ -151,7 +165,7 @@
 
   <url>
     <loc>http://blog.aidd.top/</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -161,42 +175,42 @@
   
   <url>
     <loc>http://blog.aidd.top/categories/Docker/</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.aidd.top/categories/docker/</loc>
-    <lastmod>2020-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.aidd.top/categories/java/</loc>
-    <lastmod>2020-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.aidd.top/categories/spring/</loc>
-    <lastmod>2020-11-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.aidd.top/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://blog.aidd.top/categories/gitlab-ci/</loc>
-    <lastmod>2020-11-02</lastmod>
+    <lastmod>2020-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.aidd.top/categories/java/</loc>
+    <lastmod>2020-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.aidd.top/categories/spring/</loc>
+    <lastmod>2020-11-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.aidd.top/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2020-11-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
