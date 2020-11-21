@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.aidd.top/posts/66a907b1.html</loc>
+    <loc>https://blog.aidd.top/posts/5a86ebac.html</loc>
     
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.aidd.top/posts/89a20157.html</loc>
+    
+    <lastmod>2020-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.aidd.top/about/index.html</loc>
+    
+    <lastmod>2020-11-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.aidd.top/posts/933755ce.html</loc>
+    
+    <lastmod>2020-11-21</lastmod>
     
   </url>
   
   <url>
     <loc>https://blog.aidd.top/posts/ed378e14.html</loc>
     
-    <lastmod>2020-11-03</lastmod>
+    <lastmod>2020-11-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.aidd.top/posts/66a907b1.html</loc>
+    
+    <lastmod>2020-11-20</lastmod>
     
   </url>
   
@@ -100,42 +128,7 @@
   </url>
   
   <url>
-    <loc>https://blog.aidd.top/posts/933755ce.html</loc>
-    
-    <lastmod>2020-11-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.aidd.top/posts/89a20157.html</loc>
-    
-    <lastmod>2020-11-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.aidd.top/photos/index.html</loc>
-    
-    <lastmod>2020-10-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.aidd.top/music/index.html</loc>
-    
-    <lastmod>2020-10-27</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.aidd.top/messageboard/index.html</loc>
-    
-    <lastmod>2020-10-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.aidd.top/movies/index.html</loc>
     
     <lastmod>2020-10-27</lastmod>
     
@@ -165,7 +158,7 @@
 
   <url>
     <loc>https://blog.aidd.top/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -175,42 +168,42 @@
   
   <url>
     <loc>https://blog.aidd.top/categories/Docker/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.aidd.top/categories/docker/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.aidd.top/categories/gitlab-ci/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.aidd.top/categories/java/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.aidd.top/categories/spring/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://blog.aidd.top/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-    <lastmod>2020-11-10</lastmod>
+    <lastmod>2020-11-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
