@@ -9,5 +9,5 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: http://blog.aidd.top/sitemap.xml
-Sitemap: http://blog.aidd.top/baidusitemap.xml
+Sitemap: http://blog.mrxccc.cn/sitemap.xml
+Sitemap: http://blog.mrxccc.cn/baidusitemap.xml
